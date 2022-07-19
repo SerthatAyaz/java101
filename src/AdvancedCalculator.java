@@ -121,7 +121,7 @@ public class AdvancedCalculator {
         }
         System.out.println("b factrial: " + resultb);
         return resulta;
-        
+
     }
 
     static int pow(int a, int b) {
