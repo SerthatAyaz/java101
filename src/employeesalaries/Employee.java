@@ -1,4 +1,4 @@
-package EmployeeSalaries;
+package employeesalaries;
 
 public class Employee {
     String name;

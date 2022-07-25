@@ -1,5 +1,5 @@
-package Arrays;
-import java.util.Arrays;
+package arrays;
+
 public class RepeatingNumber {
     public static void main(String[] args) {
         Repeating.run();

@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class matrisTranspose {
     public static int[][] transposeMatrix(int[][] matrix) {

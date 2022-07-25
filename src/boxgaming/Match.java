@@ -1,4 +1,4 @@
-package BoxGaming;
+package boxgaming;
 
 public class Match {
     Fighter f1;

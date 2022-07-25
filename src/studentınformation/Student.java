@@ -1,4 +1,4 @@
-package StudentInformation;
+package studentınformation;
 
 public class Student {
     Course c1;

@@ -1,4 +1,4 @@
-package BoxGaming;
+package boxgaming;
 
 public class Fighter {
     String name;

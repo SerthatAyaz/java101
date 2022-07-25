@@ -1,7 +1,6 @@
-package Arrays;
-import java.util.Scanner;
+package arrays;
 
-import static Arrays.matrisTranspose.printMatrix;
+import static arrays.matrisTranspose.printMatrix;
 
 public class Transpose {
     public static void main(String[] args) {

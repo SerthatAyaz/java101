@@ -1,4 +1,4 @@
-package StudentInformation;
+package studentınformation;
 public class Main {
     public static void main(String[] args) {
         Teacher t1 = new Teacher("mahmut hoca", "Tarih", "+905333333333");

@@ -1,4 +1,4 @@
-package BoxGaming;
+package boxgaming;
 
 public class Main {
     public static void main(String[] args) {
